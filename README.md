@@ -43,3 +43,16 @@ src/
 ## API
 - Listagem por categoria: https://dummyjson.com/products/category/{categoria}
 - Detalhes por ID: https://dummyjson.com/products/{id}
+
+- Depois, basta abrir o Expo Go no celular e escanear o QR Code gerado no terminal.
+
+## Telas do aplicativo
+- Login
+- Listagem de produtos
+- Detalhes do produto
+- Objetivo acadêmico
+
+#### O projeto tem como finalidade aplicar, na prática, os conceitos estudados em aula sobre desenvolvimento mobile, consumo de APIs REST, organização de componentes, navegação entre telas e gerenciamento de estado.
+
+Autora
+Emily da Silva Lessa

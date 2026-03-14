@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Catalogo Produtos Mobile",
+    "slug": "catalogo-produtos-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
